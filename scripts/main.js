@@ -28,4 +28,5 @@ if(!localStorage.getItem('nome')) {
 
 botao.onclick = function() {
     defineNomeUsuario();
-} */
+} 
+*/

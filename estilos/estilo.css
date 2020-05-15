@@ -1,4 +1,6 @@
 html {
+
+    background-color: #bdc3c7;
     font-size: 10px;
     font-family: "open Sans", sans-serif;
 }
@@ -27,9 +29,6 @@ p, li {
     letter-spacing: 1px;
 }
 
-/* html {
-    background-color: #E8DDDD ;
-} */
 
 body {
     width: 600px;
@@ -44,6 +43,7 @@ h1 {
     padding: 20px 0;
     color: rgba(2,2,2,0.74) ;
 }
+
 
 img {
     display: block;

@@ -11,7 +11,7 @@ minhaImagem.onclick = function() {
     }
 }
 
-var botao = document.querySelector('button');
+/* var botao = document.querySelector('button');
 var cabecalho = document.querySelector('h1');
 
 function defineNomeUsuario() {
@@ -28,4 +28,4 @@ if(!localStorage.getItem('nome')) {
 
 botao.onclick = function() {
     defineNomeUsuario();
-}
+} */

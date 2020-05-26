@@ -17,5 +17,8 @@ body {
 .imagem {
     width: 340px;
     height: 300px;
-    
+}
+ 
+.backgrd {
+    background-color: rgb(63, 186, 207);
 }

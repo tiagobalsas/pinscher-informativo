@@ -2,17 +2,26 @@ body {
     
     background-color: #bdc3c7;
     background-image: url(/img/background-image.png);
-    /* padding: 50px; */
+}
+
+
+.cabecalho-opcoes {
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+img {
+    width: 340px;
+    height: 340px;
+}   
+
+
 
     
-}
+    
 
-.cabecalho ul li {
-    display: inline;
-}
-.cabecalho ul li {
-    float: right;
-}
+
+    
 
 
 

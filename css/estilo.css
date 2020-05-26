@@ -4,5 +4,16 @@
 } */
 
 body {
+    
     padding: 50px;
+}
+
+.espacamento {
+    padding-top: 60px;
+}
+
+.imagem {
+    width: 340px;
+    height: 300px;
+    
 }

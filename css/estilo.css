@@ -1,65 +1,19 @@
 body {
     
     background-color: #bdc3c7;
-    background-image: url(/imagens/background-image.png);
-    padding: 50px;
+    background-image: url(/img/background-image.png);
+    /* padding: 50px; */
+
     
 }
-    
+
 .cabecalho ul li {
     display: inline;
 }
-
-.cabecalho a {
-    padding: 5px;
-    
-}
-
-.cabecalho ul  {
+.cabecalho ul li {
     float: right;
-}   
+}
 
-.figura img {
-    padding: 30px 0 15px 0;
+
 
     
-}
-
-
-
-
-
-
-/*
-.cabecalho li {
-    list-style-type: none;
-    font-size: 15px;
-}
-
-a:link {
-    color: #22A7F0;
-}
-
-a:visited {
-    color:#C3272B;
-}
-
-a:hover {
-    text-decoration: none;
-    color: #1F4788;
-  }
-    
-
-h1 {
-    color: #1F4788;
-    font-size: 5em;
-}
-
-#titulo h1, .figura img {
-    width: auto;
-   
-}
-
-
-
- */

@@ -1,15 +1,33 @@
 body {
     
     background-color: #bdc3c7;
-    background-image: url(/imagens/background-image.png);    
+    background-image: url(/imagens/background-image.png);
+    padding: 50px;
+    
+}
+    
+.cabecalho ul li {
+    display: inline;
+}
+
+.cabecalho a {
+    padding: 5px;
+    
+}
+
+.cabecalho ul  {
+    float: right;
+}   
+
+.figura img {
+    padding: 30px 0 15px 0;
+
+    
 }
 
 
 
-header {
 
-background-color:rgba(8, 8, 8, 0.3);
-}
 
 
 /*

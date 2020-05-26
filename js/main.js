@@ -4,10 +4,10 @@ var minhaImagem = document.querySelector('img');
 
 minhaImagem.onclick = function() {
     var meuSrc = minhaImagem.getAttribute('src');
-    if (meuSrc === 'imagens/pinscher.png') {
-        minhaImagem.setAttribute('src', 'imagens/pinscherkiss.png');
+    if (meuSrc === 'img/pinscher.png') {
+        minhaImagem.setAttribute('src', 'img/pinscherkiss.png');
     } else {
-        minhaImagem.setAttribute ('src', 'imagens/pinscher.png');
+        minhaImagem.setAttribute ('src', 'img/pinscher.png');
     }
 }
 

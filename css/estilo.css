@@ -1,11 +1,6 @@
-/* .cabecalho img {
-    width: 440px;
-    height: 64px;
-} */
-
-
-    
-
+body {
+    background-image: url(/img/background-image.jpg);
+}
 .espacamento {
     padding-top: 60px;
 }
